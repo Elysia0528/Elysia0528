@@ -2,12 +2,12 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elysia0528&show_icons=true&theme=radical)
 
 
 [![Python](https://img.shields.io/badge/code-Modern%20C++-blue)](https://www.python.org/) 
 
-![](https://img.shields.io/badge/柚子奈--yellow) 
+![](https://img.shields.io/badge/柚子奈-yellow) 
 ![](https://img.shields.io/badge/翡翠亭-red) 
 ![](https://img.shields.io/badge/hiten-red)
 
